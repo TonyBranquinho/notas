@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Notas\Notas\bin\Debug\Notas.exe.config
+C:\temp\ws-vs2019\Notas\Notas\bin\Debug\Notas.exe
+C:\temp\ws-vs2019\Notas\Notas\bin\Debug\Notas.pdb
+C:\temp\ws-vs2019\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Notas\Notas\obj\Debug\Notas.exe
+C:\temp\ws-vs2019\Notas\Notas\obj\Debug\Notas.pdb
